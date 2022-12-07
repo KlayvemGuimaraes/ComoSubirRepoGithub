@@ -1,0 +1,3 @@
+O Github é uma plataforma que disponibiliza facilmente códigos, para o próprio aperfeiçoamento dos projetos e para os curiosos de plantão. 
+Já a ferramenta Git, tem o papel de disponibilizar estes códigos para a plataforma do Github de forma remota, onde vc insere comandos e eles são executados fazendo com que seja disponibilizado
+no seu repositório local da sua conta do Github, por meio de acesso á internet.
